@@ -18,6 +18,12 @@
     <!-- Use UTF-8 as the default source encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  
+  <scm>
+    <connection>scm:git:git://github.com/beobal/junit-rules.git</connection>
+    <url>http://github.com/beobal/junit-rules</url>
+  </scm>
+
 
   <distributionManagement>
     <snapshotRepository>
