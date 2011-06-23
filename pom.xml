@@ -4,7 +4,7 @@
   <groupId>junit-rules</groupId>
   <artifactId>junit-rules</artifactId>
   <name>JUnit Rules Library</name>
-  <version>0.5-beobal</version>
+  <version>0.6-beobal-SNAPSHOT</version>
 
   <licenses>
     <license>
