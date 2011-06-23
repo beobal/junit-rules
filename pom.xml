@@ -19,6 +19,18 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <distributionManagement>
+    <snapshotRepository>
+      <id>talis-snapshots</id>
+      <url>http://oss.talisplatform.com/content/repositories/talis-snapshots</url>
+    </snapshotRepository>
+    <repository>
+      <id>talis-releases</id>
+      <url>http://oss.talisplatform.com/content/repositories/talis-releases</url>
+    </repository>
+  </distributionManagement>
+
+
   <dependencies>
     <!-- JUnit, http://www.junit.org -->
     <dependency>
